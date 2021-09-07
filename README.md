@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimoElena
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python.
 - 🌱 I’m a survey programmer.
 - 💞️ I’m looking to collaborate on Decipher projects.
 - 📫 How to reach me ...
